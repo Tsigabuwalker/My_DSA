@@ -3,9 +3,9 @@ class Solution:
         v1 = version1.split('.')
         v2 = version2.split('.')
         
-        length = max(len(v1), len(v2))
+        max_len = max(len(v1), len(v2))
         
-        for i in range(length):
+        for i in range(max_len):
             num1 = int(v1[i]) if i < len(v1) else 0
             num2 = int(v2[i]) if i < len(v2) else 0
             
