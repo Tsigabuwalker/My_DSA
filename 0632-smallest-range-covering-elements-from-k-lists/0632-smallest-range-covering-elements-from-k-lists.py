@@ -1,41 +1,41 @@
 class Solution:
     def smallestRange(self, nums):
         k = len(nums)
+        flat = []
         
-        # Pointers for each list
-        pointers = [0] * k
+        # Step 1: Flatten the list with (value, list_index)
+        for i in range(k):
+            for val in nums[i]:
+                flat.append((val, i))
         
-        # Initial best range
-        best_start = -100000
-        best_end = 100000
+        # Step 2: Sort the flat list by value
+        flat.sort(key=lambda x: x[0])
         
-        while True:
-            current_min = 100001
-            current_max = -100001
-            min_index = -1
+        # Step 3: Sliding window
+        count = [0] * k
+        inside = 0
+        left = 0
+        best_start, best_end = -100000, 100000
+        
+        for right in range(len(flat)):
+            val, idx = flat[right]
+            if count[idx] == 0:
+                inside += 1
+            count[idx] += 1
             
-            # Find current min and max
-            for i in range(k):
-                value = nums[i][pointers[i]]
+            # Try shrinking window
+            while inside == k:
+                start_val, start_idx = flat[left]
                 
-                if value < current_min:
-                    current_min = value
-                    min_index = i
+                # Update best range
+                if val - start_val < best_end - best_start or \
+                   (val - start_val == best_end - best_start and start_val < best_start):
+                    best_start, best_end = start_val, val
                 
-                if value > current_max:
-                    current_max = value
-            
-            # Update best range
-            if (current_max - current_min < best_end - best_start) or \
-               (current_max - current_min == best_end - best_start and current_min < best_start):
-                best_start = current_min
-                best_end = current_max
-            
-            # Move pointer of list that had minimum
-            pointers[min_index] += 1
-            
-            # If any list is exhausted → stop
-            if pointers[min_index] == len(nums[min_index]):
-                break
+                # Move left pointer
+                count[start_idx] -= 1
+                if count[start_idx] == 0:
+                    inside -= 1
+                left += 1
         
         return [best_start, best_end]
