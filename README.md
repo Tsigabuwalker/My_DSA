@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -25,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 <!---LeetCode Topics End-->
