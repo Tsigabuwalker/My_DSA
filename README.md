@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -30,4 +31,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
