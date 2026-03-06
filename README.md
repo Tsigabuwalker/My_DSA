@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,11 +36,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
 <!---LeetCode Topics End-->
