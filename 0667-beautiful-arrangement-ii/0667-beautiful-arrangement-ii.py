@@ -2,7 +2,7 @@ class Solution:
     def constructArray(self, n: int, k: int) -> list[int]:
         answer = []
         left, right = 1, n
-        
+
         # Create k distinct differences by zig-zagging
         while left <= right:
             if k > 1:
@@ -17,5 +17,5 @@ class Solution:
                 # Once k distinct differences are achieved, fill in increasing order
                 answer.append(left)
                 left += 1
-        
+
         return answer
