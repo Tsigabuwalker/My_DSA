@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0667-beautiful-arrangement-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0667-beautiful-arrangement-ii/) | Medium |
+| [0748-shortest-completing-word](https://github.com/Tsigabuwalker/My_DSA/tree/main/0748-shortest-completing-word/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Tsigabuwalker/My_DSA/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0748-shortest-completing-word](https://github.com/Tsigabuwalker/My_DSA/tree/main/0748-shortest-completing-word/) | Easy |
 | [1138-alphabet-board-path](https://github.com/Tsigabuwalker/My_DSA/tree/main/1138-alphabet-board-path/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0748-shortest-completing-word](https://github.com/Tsigabuwalker/My_DSA/tree/main/0748-shortest-completing-word/) | Easy |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Tsigabuwalker/My_DSA/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
