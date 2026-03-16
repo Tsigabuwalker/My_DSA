@@ -103,4 +103,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Tsigabuwalker/My_DSA/tree/main/0206-reverse-linked-list/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Tsigabuwalker/My_DSA/tree/main/0338-counting-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Tsigabuwalker/My_DSA/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
