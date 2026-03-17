@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Tsigabuwalker/My_DSA/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [0906-super-palindromes](https://github.com/Tsigabuwalker/My_DSA/tree/main/0906-super-palindromes/) | Hard |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0773-sliding-puzzle](https://github.com/Tsigabuwalker/My_DSA/tree/main/0773-sliding-puzzle/) | Hard |
+| [1137-n-th-tribonacci-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0773-sliding-puzzle](https://github.com/Tsigabuwalker/My_DSA/tree/main/0773-sliding-puzzle/) | Hard |
+| [1137-n-th-tribonacci-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
