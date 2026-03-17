@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0748-shortest-completing-word](https://github.com/Tsigabuwalker/My_DSA/tree/main/0748-shortest-completing-word/) | Easy |
 | [0761-special-binary-string](https://github.com/Tsigabuwalker/My_DSA/tree/main/0761-special-binary-string/) | Hard |
+| [0906-super-palindromes](https://github.com/Tsigabuwalker/My_DSA/tree/main/0906-super-palindromes/) | Hard |
 | [1138-alphabet-board-path](https://github.com/Tsigabuwalker/My_DSA/tree/main/1138-alphabet-board-path/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0528-random-pick-with-weight](https://github.com/Tsigabuwalker/My_DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0667-beautiful-arrangement-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Tsigabuwalker/My_DSA/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
+| [0906-super-palindromes](https://github.com/Tsigabuwalker/My_DSA/tree/main/0906-super-palindromes/) | Hard |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Geometry
@@ -150,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0528-random-pick-with-weight](https://github.com/Tsigabuwalker/My_DSA/tree/main/0528-random-pick-with-weight/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0906-super-palindromes](https://github.com/Tsigabuwalker/My_DSA/tree/main/0906-super-palindromes/) | Hard |
 <!---LeetCode Topics End-->
