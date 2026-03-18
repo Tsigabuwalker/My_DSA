@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0306-additive-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/0306-additive-number/) | Medium |
+| [0591-tag-validator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0591-tag-validator/) | Hard |
 | [0647-palindromic-substrings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0748-shortest-completing-word](https://github.com/Tsigabuwalker/My_DSA/tree/main/0748-shortest-completing-word/) | Easy |
 | [0761-special-binary-string](https://github.com/Tsigabuwalker/My_DSA/tree/main/0761-special-binary-string/) | Hard |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0591-tag-validator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0591-tag-validator/) | Hard |
 | [1124-longest-well-performing-interval](https://github.com/Tsigabuwalker/My_DSA/tree/main/1124-longest-well-performing-interval/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
