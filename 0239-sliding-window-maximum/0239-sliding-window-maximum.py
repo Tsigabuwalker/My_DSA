@@ -1,5 +1,6 @@
 from collections import deque
 
+
 class Solution:
     def maxSlidingWindow(self, nums, k):
         dq = deque()  # stores indices
