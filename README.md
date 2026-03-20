@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1124-longest-well-performing-interval](https://github.com/Tsigabuwalker/My_DSA/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Greedy
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0761-special-binary-string](https://github.com/Tsigabuwalker/My_DSA/tree/main/0761-special-binary-string/) | Hard |
 | [0906-super-palindromes](https://github.com/Tsigabuwalker/My_DSA/tree/main/0906-super-palindromes/) | Hard |
 | [1138-alphabet-board-path](https://github.com/Tsigabuwalker/My_DSA/tree/main/1138-alphabet-board-path/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Binary Search
@@ -75,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1138-alphabet-board-path](https://github.com/Tsigabuwalker/My_DSA/tree/main/1138-alphabet-board-path/) | Medium |
 | [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Math
