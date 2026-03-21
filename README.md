@@ -102,11 +102,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tsigabuwalker/My_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tsigabuwalker/My_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0591-tag-validator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0591-tag-validator/) | Hard |
 | [1124-longest-well-performing-interval](https://github.com/Tsigabuwalker/My_DSA/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tsigabuwalker/My_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Tsigabuwalker/My_DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0341-flatten-nested-list-iterator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 ## Heap (Priority Queue)
