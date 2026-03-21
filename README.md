@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0748-shortest-completing-word](https://github.com/Tsigabuwalker/My_DSA/tree/main/0748-shortest-completing-word/) | Easy |
 | [0761-special-binary-string](https://github.com/Tsigabuwalker/My_DSA/tree/main/0761-special-binary-string/) | Hard |
+| [0854-k-similar-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0854-k-similar-strings/) | Hard |
 | [0906-super-palindromes](https://github.com/Tsigabuwalker/My_DSA/tree/main/0906-super-palindromes/) | Hard |
 | [1138-alphabet-board-path](https://github.com/Tsigabuwalker/My_DSA/tree/main/1138-alphabet-board-path/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0748-shortest-completing-word](https://github.com/Tsigabuwalker/My_DSA/tree/main/0748-shortest-completing-word/) | Easy |
+| [0854-k-similar-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0854-k-similar-strings/) | Hard |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0773-sliding-puzzle](https://github.com/Tsigabuwalker/My_DSA/tree/main/0773-sliding-puzzle/) | Hard |
+| [0854-k-similar-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0854-k-similar-strings/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
