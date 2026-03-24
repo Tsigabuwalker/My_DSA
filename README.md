@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Tsigabuwalker/My_DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,19 +226,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0341-flatten-nested-list-iterator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tsigabuwalker/My_DSA/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Tsigabuwalker/My_DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tsigabuwalker/My_DSA/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Tsigabuwalker/My_DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tsigabuwalker/My_DSA/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Tsigabuwalker/My_DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Tsigabuwalker/My_DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
