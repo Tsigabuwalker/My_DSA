@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/1487-making-file-names-unique/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tsigabuwalker/My_DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1051-height-checker](https://github.com/Tsigabuwalker/My_DSA/tree/main/1051-height-checker/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Tsigabuwalker/My_DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1027-longest-arithmetic-subsequence](https://github.com/Tsigabuwalker/My_DSA/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0773-sliding-puzzle](https://github.com/Tsigabuwalker/My_DSA/tree/main/0773-sliding-puzzle/) | Hard |
 | [1027-longest-arithmetic-subsequence](https://github.com/Tsigabuwalker/My_DSA/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
