@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tsigabuwalker/My_DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1027-longest-arithmetic-subsequence](https://github.com/Tsigabuwalker/My_DSA/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1051-height-checker](https://github.com/Tsigabuwalker/My_DSA/tree/main/1051-height-checker/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tsigabuwalker/My_DSA/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Tsigabuwalker/My_DSA/tree/main/1124-longest-well-performing-interval/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tsigabuwalker/My_DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1051-height-checker](https://github.com/Tsigabuwalker/My_DSA/tree/main/1051-height-checker/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Tsigabuwalker/My_DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Counting
@@ -255,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Tsigabuwalker/My_DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/Tsigabuwalker/My_DSA/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
