@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Tsigabuwalker/My_DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0528-random-pick-with-weight](https://github.com/Tsigabuwalker/My_DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0645-set-mismatch](https://github.com/Tsigabuwalker/My_DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0667-beautiful-arrangement-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0667-beautiful-arrangement-ii/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tsigabuwalker/My_DSA/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/Tsigabuwalker/My_DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tsigabuwalker/My_DSA/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Tsigabuwalker/My_DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0761-special-binary-string](https://github.com/Tsigabuwalker/My_DSA/tree/main/0761-special-binary-string/) | Hard |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/Tsigabuwalker/My_DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Tsigabuwalker/My_DSA/tree/main/0748-shortest-completing-word/) | Easy |
 | [0854-k-similar-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0854-k-similar-strings/) | Hard |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -172,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/Tsigabuwalker/My_DSA/tree/main/0338-counting-bits/) | Easy |
+| [0645-set-mismatch](https://github.com/Tsigabuwalker/My_DSA/tree/main/0645-set-mismatch/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
