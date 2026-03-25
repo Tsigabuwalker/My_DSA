@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1329-sort-the-matrix-diagonally](https://github.com/Tsigabuwalker/My_DSA/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/1487-making-file-names-unique/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Greedy
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Tsigabuwalker/My_DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1329-sort-the-matrix-diagonally](https://github.com/Tsigabuwalker/My_DSA/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0773-sliding-puzzle](https://github.com/Tsigabuwalker/My_DSA/tree/main/0773-sliding-puzzle/) | Hard |
+| [1329-sort-the-matrix-diagonally](https://github.com/Tsigabuwalker/My_DSA/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
