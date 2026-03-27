@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tsigabuwalker/My_DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0228-summary-ranges](https://github.com/Tsigabuwalker/My_DSA/tree/main/0228-summary-ranges/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Tsigabuwalker/My_DSA/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tsigabuwalker/My_DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0507-perfect-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/0507-perfect-number/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/Tsigabuwalker/My_DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0667-beautiful-arrangement-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0667-beautiful-arrangement-ii/) | Medium |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tsigabuwalker/My_DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Tsigabuwalker/My_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0591-tag-validator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0591-tag-validator/) | Hard |
