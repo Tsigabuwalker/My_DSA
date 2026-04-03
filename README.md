@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Tsigabuwalker/My_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Tsigabuwalker/My_DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Tsigabuwalker/My_DSA/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/1487-making-file-names-unique/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Tsigabuwalker/My_DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Tsigabuwalker/My_DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Tsigabuwalker/My_DSA/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Tsigabuwalker/My_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Tsigabuwalker/My_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Tsigabuwalker/My_DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/1487-making-file-names-unique/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Math
@@ -216,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-k-similar-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0854-k-similar-strings/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tsigabuwalker/My_DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Tsigabuwalker/My_DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,4 +296,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Tsigabuwalker/My_DSA/tree/main/1051-height-checker/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Tsigabuwalker/My_DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 <!---LeetCode Topics End-->
