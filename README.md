@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1002-find-common-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tsigabuwalker/My_DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1027-longest-arithmetic-subsequence](https://github.com/Tsigabuwalker/My_DSA/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1051-height-checker](https://github.com/Tsigabuwalker/My_DSA/tree/main/1051-height-checker/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0811-subdomain-visit-count](https://github.com/Tsigabuwalker/My_DSA/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0854-k-similar-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0854-k-similar-strings/) | Hard |
 | [0906-super-palindromes](https://github.com/Tsigabuwalker/My_DSA/tree/main/0906-super-palindromes/) | Hard |
+| [1002-find-common-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1138-alphabet-board-path](https://github.com/Tsigabuwalker/My_DSA/tree/main/1138-alphabet-board-path/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1002-find-common-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1027-longest-arithmetic-subsequence](https://github.com/Tsigabuwalker/My_DSA/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tsigabuwalker/My_DSA/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Tsigabuwalker/My_DSA/tree/main/1124-longest-well-performing-interval/) | Medium |
