@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-global-and-local-inversions](https://github.com/Tsigabuwalker/My_DSA/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0782-transform-to-chessboard](https://github.com/Tsigabuwalker/My_DSA/tree/main/0782-transform-to-chessboard/) | Hard |
 | [0811-subdomain-visit-count](https://github.com/Tsigabuwalker/My_DSA/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0812-largest-triangle-area](https://github.com/Tsigabuwalker/My_DSA/tree/main/0812-largest-triangle-area/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-global-and-local-inversions](https://github.com/Tsigabuwalker/My_DSA/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0782-transform-to-chessboard](https://github.com/Tsigabuwalker/My_DSA/tree/main/0782-transform-to-chessboard/) | Hard |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Tsigabuwalker/My_DSA/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
+| [0812-largest-triangle-area](https://github.com/Tsigabuwalker/My_DSA/tree/main/0812-largest-triangle-area/) | Easy |
 | [0878-nth-magical-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [0906-super-palindromes](https://github.com/Tsigabuwalker/My_DSA/tree/main/0906-super-palindromes/) | Hard |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Tsigabuwalker/My_DSA/tree/main/0812-largest-triangle-area/) | Easy |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
