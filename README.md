@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Tsigabuwalker/My_DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Tsigabuwalker/My_DSA/tree/main/0748-shortest-completing-word/) | Easy |
 | [0773-sliding-puzzle](https://github.com/Tsigabuwalker/My_DSA/tree/main/0773-sliding-puzzle/) | Hard |
+| [0775-global-and-local-inversions](https://github.com/Tsigabuwalker/My_DSA/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/Tsigabuwalker/My_DSA/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/0507-perfect-number/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/Tsigabuwalker/My_DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0667-beautiful-arrangement-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0667-beautiful-arrangement-ii/) | Medium |
+| [0775-global-and-local-inversions](https://github.com/Tsigabuwalker/My_DSA/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Tsigabuwalker/My_DSA/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [0878-nth-magical-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [0906-super-palindromes](https://github.com/Tsigabuwalker/My_DSA/tree/main/0906-super-palindromes/) | Hard |
