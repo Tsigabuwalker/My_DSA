@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Tsigabuwalker/My_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Tsigabuwalker/My_DSA/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Tsigabuwalker/My_DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Tsigabuwalker/My_DSA/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/1487-making-file-names-unique/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tsigabuwalker/My_DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Tsigabuwalker/My_DSA/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Tsigabuwalker/My_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Tsigabuwalker/My_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Tsigabuwalker/My_DSA/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Tsigabuwalker/My_DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1487-making-file-names-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/1487-making-file-names-unique/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1512-number-of-good-pairs/) | Easy |
