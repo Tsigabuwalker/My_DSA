@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-transform-to-chessboard](https://github.com/Tsigabuwalker/My_DSA/tree/main/0782-transform-to-chessboard/) | Hard |
 | [0811-subdomain-visit-count](https://github.com/Tsigabuwalker/My_DSA/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0812-largest-triangle-area](https://github.com/Tsigabuwalker/My_DSA/tree/main/0812-largest-triangle-area/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/Tsigabuwalker/My_DSA/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0927-three-equal-parts](https://github.com/Tsigabuwalker/My_DSA/tree/main/0927-three-equal-parts/) | Hard |
 | [0932-beautiful-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0932-beautiful-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tsigabuwalker/My_DSA/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Tsigabuwalker/My_DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0761-special-binary-string](https://github.com/Tsigabuwalker/My_DSA/tree/main/0761-special-binary-string/) | Hard |
+| [0823-binary-trees-with-factors](https://github.com/Tsigabuwalker/My_DSA/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0652-find-duplicate-subtrees](https://github.com/Tsigabuwalker/My_DSA/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0748-shortest-completing-word](https://github.com/Tsigabuwalker/My_DSA/tree/main/0748-shortest-completing-word/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/Tsigabuwalker/My_DSA/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0823-binary-trees-with-factors](https://github.com/Tsigabuwalker/My_DSA/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0854-k-similar-strings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0854-k-similar-strings/) | Hard |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0773-sliding-puzzle](https://github.com/Tsigabuwalker/My_DSA/tree/main/0773-sliding-puzzle/) | Hard |
+| [0823-binary-trees-with-factors](https://github.com/Tsigabuwalker/My_DSA/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Tsigabuwalker/My_DSA/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
