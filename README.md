@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tsigabuwalker/My_DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Tsigabuwalker/My_DSA/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Tsigabuwalker/My_DSA/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1051-height-checker](https://github.com/Tsigabuwalker/My_DSA/tree/main/1051-height-checker/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tsigabuwalker/My_DSA/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0811-subdomain-visit-count](https://github.com/Tsigabuwalker/My_DSA/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Tsigabuwalker/My_DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Tsigabuwalker/My_DSA/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Tsigabuwalker/My_DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tsigabuwalker/My_DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1002-find-common-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1002-find-common-characters/) | Easy |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Tsigabuwalker/My_DSA/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tsigabuwalker/My_DSA/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Tsigabuwalker/My_DSA/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tsigabuwalker/My_DSA/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
