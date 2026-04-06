@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tsigabuwalker/My_DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1002-find-common-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1002-find-common-characters/) | Easy |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Tsigabuwalker/My_DSA/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Tsigabuwalker/My_DSA/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tsigabuwalker/My_DSA/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tsigabuwalker/My_DSA/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0927-three-equal-parts](https://github.com/Tsigabuwalker/My_DSA/tree/main/0927-three-equal-parts/) | Hard |
 | [0932-beautiful-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0932-beautiful-array/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Tsigabuwalker/My_DSA/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1017-convert-to-base-2](https://github.com/Tsigabuwalker/My_DSA/tree/main/1017-convert-to-base-2/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
