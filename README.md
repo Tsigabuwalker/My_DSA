@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Tsigabuwalker/My_DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Tsigabuwalker/My_DSA/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Tsigabuwalker/My_DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Tsigabuwalker/My_DSA/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1154-day-of-the-year](https://github.com/Tsigabuwalker/My_DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Tsigabuwalker/My_DSA/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
@@ -343,4 +345,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0858-mirror-reflection](https://github.com/Tsigabuwalker/My_DSA/tree/main/0858-mirror-reflection/) | Medium |
+| [1250-check-if-it-is-a-good-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 <!---LeetCode Topics End-->
