@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/Tsigabuwalker/My_DSA/tree/main/1037-valid-boomerang/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/Tsigabuwalker/My_DSA/tree/main/1154-day-of-the-year/) | Easy |
+| [1238-circular-permutation-in-binary-representation](https://github.com/Tsigabuwalker/My_DSA/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Tsigabuwalker/My_DSA/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Geometry
@@ -242,11 +243,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Tsigabuwalker/My_DSA/tree/main/0338-counting-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/Tsigabuwalker/My_DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0782-transform-to-chessboard](https://github.com/Tsigabuwalker/My_DSA/tree/main/0782-transform-to-chessboard/) | Hard |
+| [1238-circular-permutation-in-binary-representation](https://github.com/Tsigabuwalker/My_DSA/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0306-additive-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/0306-additive-number/) | Medium |
 | [0773-sliding-puzzle](https://github.com/Tsigabuwalker/My_DSA/tree/main/0773-sliding-puzzle/) | Hard |
+| [1238-circular-permutation-in-binary-representation](https://github.com/Tsigabuwalker/My_DSA/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
