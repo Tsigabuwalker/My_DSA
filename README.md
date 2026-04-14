@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-transform-to-chessboard](https://github.com/Tsigabuwalker/My_DSA/tree/main/0782-transform-to-chessboard/) | Hard |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Tsigabuwalker/My_DSA/tree/main/0793-preimage-size-of-factorial-zeroes-function/) | Hard |
 | [0812-largest-triangle-area](https://github.com/Tsigabuwalker/My_DSA/tree/main/0812-largest-triangle-area/) | Easy |
+| [0858-mirror-reflection](https://github.com/Tsigabuwalker/My_DSA/tree/main/0858-mirror-reflection/) | Medium |
 | [0878-nth-magical-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [0906-super-palindromes](https://github.com/Tsigabuwalker/My_DSA/tree/main/0906-super-palindromes/) | Hard |
 | [0927-three-equal-parts](https://github.com/Tsigabuwalker/My_DSA/tree/main/0927-three-equal-parts/) | Hard |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/Tsigabuwalker/My_DSA/tree/main/0812-largest-triangle-area/) | Easy |
+| [0858-mirror-reflection](https://github.com/Tsigabuwalker/My_DSA/tree/main/0858-mirror-reflection/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -329,4 +331,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Tsigabuwalker/My_DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0858-mirror-reflection](https://github.com/Tsigabuwalker/My_DSA/tree/main/0858-mirror-reflection/) | Medium |
 <!---LeetCode Topics End-->
