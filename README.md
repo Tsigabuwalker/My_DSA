@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tsigabuwalker/My_DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Tsigabuwalker/My_DSA/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/Tsigabuwalker/My_DSA/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1037-valid-boomerang](https://github.com/Tsigabuwalker/My_DSA/tree/main/1037-valid-boomerang/) | Easy |
 | [1051-height-checker](https://github.com/Tsigabuwalker/My_DSA/tree/main/1051-height-checker/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tsigabuwalker/My_DSA/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1124-longest-well-performing-interval](https://github.com/Tsigabuwalker/My_DSA/tree/main/1124-longest-well-performing-interval/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tsigabuwalker/My_DSA/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1017-convert-to-base-2](https://github.com/Tsigabuwalker/My_DSA/tree/main/1017-convert-to-base-2/) | Medium |
+| [1037-valid-boomerang](https://github.com/Tsigabuwalker/My_DSA/tree/main/1037-valid-boomerang/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/Tsigabuwalker/My_DSA/tree/main/1154-day-of-the-year/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-largest-triangle-area](https://github.com/Tsigabuwalker/My_DSA/tree/main/0812-largest-triangle-area/) | Easy |
 | [0858-mirror-reflection](https://github.com/Tsigabuwalker/My_DSA/tree/main/0858-mirror-reflection/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
+| [1037-valid-boomerang](https://github.com/Tsigabuwalker/My_DSA/tree/main/1037-valid-boomerang/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
