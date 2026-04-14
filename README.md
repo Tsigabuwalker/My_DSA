@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Tsigabuwalker/My_DSA/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1187-make-array-strictly-increasing](https://github.com/Tsigabuwalker/My_DSA/tree/main/1187-make-array-strictly-increasing/) | Hard |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Tsigabuwalker/My_DSA/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/Tsigabuwalker/My_DSA/tree/main/1037-valid-boomerang/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Tsigabuwalker/My_DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/Tsigabuwalker/My_DSA/tree/main/1154-day-of-the-year/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Tsigabuwalker/My_DSA/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Tsigabuwalker/My_DSA/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tsigabuwalker/My_DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Tsigabuwalker/My_DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Tsigabuwalker/My_DSA/tree/main/0719-find-k-th-smallest-pair-distance/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Tsigabuwalker/My_DSA/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,4 +349,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0858-mirror-reflection](https://github.com/Tsigabuwalker/My_DSA/tree/main/0858-mirror-reflection/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Tsigabuwalker/My_DSA/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 <!---LeetCode Topics End-->
