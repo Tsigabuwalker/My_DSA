@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Tsigabuwalker/My_DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0307-range-sum-query-mutable](https://github.com/Tsigabuwalker/My_DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tsigabuwalker/My_DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Tsigabuwalker/My_DSA/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Tsigabuwalker/My_DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/Tsigabuwalker/My_DSA/tree/main/0645-set-mismatch/) | Easy |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tsigabuwalker/My_DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Tsigabuwalker/My_DSA/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0773-sliding-puzzle](https://github.com/Tsigabuwalker/My_DSA/tree/main/0773-sliding-puzzle/) | Hard |
 | [0782-transform-to-chessboard](https://github.com/Tsigabuwalker/My_DSA/tree/main/0782-transform-to-chessboard/) | Hard |
 | [1329-sort-the-matrix-diagonally](https://github.com/Tsigabuwalker/My_DSA/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tsigabuwalker/My_DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Tsigabuwalker/My_DSA/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Tsigabuwalker/My_DSA/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1110-delete-nodes-and-return-forest](https://github.com/Tsigabuwalker/My_DSA/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
