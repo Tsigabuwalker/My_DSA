@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/Tsigabuwalker/My_DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Tsigabuwalker/My_DSA/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/Tsigabuwalker/My_DSA/tree/main/0463-island-perimeter/) | Easy |
+| [0495-teemo-attacking](https://github.com/Tsigabuwalker/My_DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Tsigabuwalker/My_DSA/tree/main/0498-diagonal-traverse/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Tsigabuwalker/My_DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -380,5 +381,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/Tsigabuwalker/My_DSA/tree/main/0495-teemo-attacking/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Tsigabuwalker/My_DSA/tree/main/0498-diagonal-traverse/) | Medium |
 <!---LeetCode Topics End-->
