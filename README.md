@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0228-summary-ranges](https://github.com/Tsigabuwalker/My_DSA/tree/main/0228-summary-ranges/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Tsigabuwalker/My_DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0307-range-sum-query-mutable](https://github.com/Tsigabuwalker/My_DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Tsigabuwalker/My_DSA/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0645-set-mismatch](https://github.com/Tsigabuwalker/My_DSA/tree/main/0645-set-mismatch/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tsigabuwalker/My_DSA/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/Tsigabuwalker/My_DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/Tsigabuwalker/My_DSA/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [1146-snapshot-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/1146-snapshot-array/) | Medium |
 ## Stack
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Tsigabuwalker/My_DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0761-special-binary-string](https://github.com/Tsigabuwalker/My_DSA/tree/main/0761-special-binary-string/) | Hard |
 | [0932-beautiful-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0932-beautiful-array/) | Medium |
 ## Linked List
@@ -353,4 +356,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Tsigabuwalker/My_DSA/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Tsigabuwalker/My_DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Tsigabuwalker/My_DSA/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
