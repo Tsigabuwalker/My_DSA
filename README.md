@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tsigabuwalker/My_DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Tsigabuwalker/My_DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0997-find-the-town-judge](https://github.com/Tsigabuwalker/My_DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Tsigabuwalker/My_DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Tsigabuwalker/My_DSA/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0963-minimum-area-rectangle-ii](https://github.com/Tsigabuwalker/My_DSA/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tsigabuwalker/My_DSA/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tsigabuwalker/My_DSA/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0997-find-the-town-judge](https://github.com/Tsigabuwalker/My_DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/Tsigabuwalker/My_DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Tsigabuwalker/My_DSA/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Tsigabuwalker/My_DSA/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/Tsigabuwalker/My_DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Tsigabuwalker/My_DSA/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
